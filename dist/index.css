@@ -1,3 +1,25 @@
+@font-face {
+    font-family: 'Yellowtail';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/yellowtail/v18/OZpGg_pnoDtINPfRIlLohlvHwQ.woff2) format('woff2');
+}
+
+.yt {
+    font-family: "Yellowtail", serif;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.yt_title {
+    font-family: "Yellowtail", serif;
+    font-size: 20px;
+}
+
 body {
     max-width: max-content;
     margin: auto;
