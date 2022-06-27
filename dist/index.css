@@ -1,14 +1,6 @@
-#outer0 {
-    width: 100%;
-    height: auto;
+body {
+    max-width: max-content;
     margin: auto;
-}
-
-#outer1 {
-    float: left;
-    border: 1px solid #ebebeb;
-    padding: 15px;
-    background-color: #fff;
 }
 
 .innerWhiteBox {
